@@ -1,0 +1,29 @@
+.image-container {
+    display: initial;
+    }
+    .image-container img {
+    width: 10%;
+    border-radius: 80px;
+    }
+
+    #logo {
+    width: 10px;
+    }
+
+    h2 {
+        color: #e40000;
+        font-size: 20px;
+        font-family: monospace;
+        text-align: center;
+        padding: 0px 20px;
+        top: 100%;
+    }
+
+    h3 {
+        color: #000000;
+        font-size: 15px;
+        font-family: cursive;
+        text-align: left;
+        padding: 0px 20px;
+        top: 100%;
+    }

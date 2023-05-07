@@ -1,0 +1,23 @@
+.image-container {
+    display: initial;
+    }
+    .image-container img {
+    width: 10%;
+    border-radius: 80px;
+    }
+
+    #portad{
+        width: 55959595px;
+    }
+    #logo {
+    width: 650px;
+    }
+
+    h1 {
+        color: #000000;
+        font-size: 20px;
+        font-family: monospace;
+        text-align: center;
+        padding: 0px 20px;
+        top: 100%;
+    }
