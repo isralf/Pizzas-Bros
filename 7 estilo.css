@@ -2,22 +2,43 @@
     display: initial;
     }
     .image-container img {
-    width: 10%;
-    border-radius: 80px;
+    width: 15%;
+    border-radius: 50px;
     }
 
-    #portad{
-        width: 55959595px;
-    }
     #logo {
-    width: 650px;
+    width: 30px;
     }
-
-    h1 {
-        color: #000000;
-        font-size: 20px;
+    
+body {
+    background-image: url(Imagenes/idea.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+h1 {
+        color: #00eccd;
+        font-size: 40px;
         font-family: monospace;
         text-align: center;
-        padding: 0px 20px;
+        padding: 10px 80px;
+        top: 100%;
+        }
+
+        h2 {
+            color: #ff1313;
+            font-size: 30px;
+            font-family: monospace;
+            text-align: right;
+            padding: 0px 90px;
+            top: 100%;
+        }
+    p {
+        color: #00ff73;
+        font-size: 30px;
+        font-family: monospace;
+        text-align: right;
+        padding: 1px 15px;
         top: 100%;
     }

@@ -2,12 +2,20 @@
     display: initial;
     }
     .image-container img {
-    width: 10%;
-    border-radius: 80px;
+    width: 15%;
+    border-radius: 50px;
     }
 
     #logo {
-    width: 10px;
+    width: 30px;
+    }
+
+    body {
+        background-image: linear-gradient(rgba(5, 7, 12, 0.75),rgba(5, 7, 12, 0.75)) url(Imagenes/idea.jpg);
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
     }
 
     h2 {
@@ -15,7 +23,7 @@
         font-size: 20px;
         font-family: monospace;
         text-align: center;
-        padding: 0px 20px;
+        padding: 30px 20px;
         top: 100%;
     }
 
