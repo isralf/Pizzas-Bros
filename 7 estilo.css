@@ -11,14 +11,14 @@
     }
     
 body {
-    background-image: url(Imagenes/idea.jpg);
+    background-image: url(Imagenes/gofii.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
 }
 h1 {
-        color: #00eccd;
+        color: #46074e;
         font-size: 40px;
         font-family: monospace;
         text-align: center;
@@ -27,7 +27,7 @@ h1 {
         }
 
         h2 {
-            color: #ff1313;
+            color: #000000;
             font-size: 30px;
             font-family: monospace;
             text-align: right;
@@ -35,10 +35,26 @@ h1 {
             top: 100%;
         }
     p {
-        color: #00ff73;
+        color: #0011ff;
         font-size: 30px;
         font-family: monospace;
         text-align: right;
         padding: 1px 15px;
         top: 100%;
     }
+
+    /*PIE DE PAGINA*/
+    footer {
+        max-width: 500px;
+        background: #000;
+        margin: 0 auto;
+        border-radius: 20px 20px 20px 20px;
+        color: #28e1fa;
+        text-align: center;
+        padding: 30px;
+        box-sizing: border-box;
+        font-family: arial;
+        font-size: 18px;
+    }
+
+    /*PIE DE PAGINA*/

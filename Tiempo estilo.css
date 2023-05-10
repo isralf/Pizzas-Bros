@@ -10,6 +10,14 @@
     width: 10px;
     }
 
+    body {
+        background-image: linear-gradient(rgba(5, 7, 12, 0.75),rgba(5, 7, 12, 0.75)) url(Imagenes/idea.jpg);
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+    }
+
     h2 {
         color: #e40000;
         font-size: 20px;
@@ -27,3 +35,20 @@
         padding: 0px 20px;
         top: 100%;
     }
+
+
+    /*PIE DE PAGINA*/
+    footer {
+        max-width: 500px;
+        background: #000;
+        margin: 0 auto;
+        border-radius: 20px 20px 20px 20px;
+        color: #28e1fa;
+        text-align: center;
+        padding: 30px;
+        box-sizing: border-box;
+        font-family: arial;
+        font-size: 18px;
+    }
+
+    /*PIE DE PAGINA*/
